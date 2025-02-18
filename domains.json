@@ -31,7 +31,7 @@
   },
   {
     "domain": "aflac.com",
-    "name": "Aflac | America’s Most Recognized Supplemental Insurance Company",
+    "name": "Aflac | #1 Supplemental Insurance Company - Get a Quote",
     "description": "Aflac provides supplemental insurance to help pay out-of-pocket expenses your major medical insurance doesn't cover. Get started with a quote today!",
     "icon": "icons/aflac.com.ico",
     "endpoints": {
@@ -101,9 +101,9 @@
   },
   {
     "domain": "beyondidentity.com",
-    "name": "Beyond Identity",
-    "description": "The only secure-by-design Secure Access Platform. Eliminates access risks with SSO, Zero-Trust Identity architecture, phish-resistant MFA, Device Trust and Passwordless capabilities. The secure alternative to Okta, Microsoft Entra, Google MFA, and more.",
-    "icon": "icons/beyondidentity.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -151,9 +151,9 @@
   },
   {
     "domain": "bolt.eu",
-    "name": "Explore Bolt services | The all-in-one mobility app",
-    "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 600+ cities and 50+ countries.",
-    "icon": "icons/bolt.eu.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -163,7 +163,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -241,8 +241,8 @@
   },
   {
     "domain": "corbado.com",
-    "name": "Corbado - Add passkeys to any new or existing app",
-    "description": "We help you offer passkeys in any new or existing application. Provide the most secure and most convenient authentication to delight your users.",
+    "name": "Corbado - Passkeys for large-scale B2C applications",
+    "description": "Get passkeys with 10x higher adoption, zero user migration stress & all the enterprise-grade features that are needed for large-scale B2C deployments.",
     "icon": "icons/corbado.com.png",
     "endpoints": {
       "enroll": "",
@@ -473,7 +473,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.ico",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -611,9 +611,9 @@
   },
   {
     "domain": "marketcircle.com",
-    "name": "Award-Winning Mac CRM Software for Your Small Business | Daylite",
-    "description": "Daylite is a leading Mac CRM software for your small business, helping teams manage more clients, close more deals, & complete more projects. Schedule a demo!",
-    "icon": "icons/marketcircle.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -671,7 +671,7 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "マネーフォワード ME",
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
     "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
     "icon": "icons/moneyforward.com.ico",
     "endpoints": {
@@ -741,8 +741,8 @@
   },
   {
     "domain": "okta.com",
-    "name": "Employee and Customer Identity Solutions | Okta",
-    "description": "Okta's Workforce and Customer Identity Clouds enable secure access, authentication, and automation—putting identity at the heart of business security and growth.",
+    "name": "Okta and Auth0 Platforms | Okta",
+    "description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation—putting Identity at the heart of business security and growth.",
     "icon": "icons/okta.com.ico",
     "endpoints": {
       "enroll": "",
@@ -813,7 +813,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -833,7 +833,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "icons/payfit.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -911,8 +911,8 @@
   },
   {
     "domain": "robinhood.com",
-    "name": "Commission-free Stock Trading & Investing App | Robinhood",
-    "description": "Robinhood has tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
+    "name": "Robinhood: 24/5 Commission-Free Stock Trading & Investing ",
+    "description": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more. Terms and fees may apply.",
     "icon": "icons/robinhood.com.png?v=2024",
     "endpoints": {
       "enroll": "",
@@ -1103,7 +1103,7 @@
     "domain": "vinci-autoroutes.com",
     "name": "VINCI Autoroutes : info trafic, prévisions, itinéraire, télépéage | VINCI Autoroutes",
     "description": "VINCI Autoroutes vous accompagne pour Bien voyager. Info trafic en direct, prévisions trafic, services sur aires, travaux, télépéage, tarifs, actus, conseils.",
-    "icon": "icons/vinci-autoroutes.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
